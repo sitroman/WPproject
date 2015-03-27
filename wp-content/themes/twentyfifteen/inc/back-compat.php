@@ -16,7 +16,7 @@
  *
  * Switches to the default theme.
  *
- * @since Twenty Fifteen 1.0
+ * @since Twenty Fifteen 1.0   as
  */
 function twentyfifteen_switch_theme() {
 	switch_theme( WP_DEFAULT_THEME, WP_DEFAULT_THEME );
